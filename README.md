@@ -1,4 +1,4 @@
-rocket Javascript full-stack rocket
+Javascript full-stack
 
 Social Network Rest Api with /Express / MongoDB /
 Start server : npm start
